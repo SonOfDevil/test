@@ -1,0 +1,22 @@
+body{
+    margin:0;
+    padding:0;
+    width:100%;
+}
+.container{
+    margin: 0 auto;
+    padding:0;
+    width: 50%;
+    color: #fff;
+}
+.main-box{
+    padding: 20px;
+    height:300px;
+    background-color:blue;
+}
+.sub-box{
+    margin:10px 0;
+    padding:20px;
+    height: 200px;
+    background-color: red;
+}
