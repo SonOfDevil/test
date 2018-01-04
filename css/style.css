@@ -24,3 +24,13 @@ body{
     height:100px;
     background-color: yellow;
 }
+.aaa{
+    background: #ddd;
+    width: 60px;
+    height: 30px;
+}
+.bbb{
+    background: #ddd;
+    width: 60px;
+    height: 30px;
+}
